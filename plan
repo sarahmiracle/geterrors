@@ -1,0 +1,14 @@
+1. Unzip: G:\crowdprocess 7 9\
+2. Remove CPP
+3. Remove upload
+	a. Remains: graphs, results, errors, wrongs, info.json
+4. If no "errors"
+    a. Call validator…
+5. Count graphs: results + errors + wrongs = graphs
+    a. If wrongs>0 create problem.txt
+    b. If sum != graphs create problem.txt
+6. Copy errors to R:\wp\cp\data\7\9\{id/10}
+7. ZIP back to G:\crowdprocess 7 9\
+
+7:14:15
+7:24:40

@@ -1,0 +1,12 @@
+{
+  "zipdir": "C:\\Users\\User\\WebstormProjects\\processing_the_data\\data\\",
+  "important": [ "graphs", "results", "errors", "wrongs", "info.json" ],
+  "checkerfolder": "C:\\Users\\User\\WebstormProjects\\processing_the_data\\map_at_2000",
+  "runexe": "cpp1.exe",
+  "problemfinderfold": "C:\\Users\\User\\WebstormProjects\\processing_the_data\\find_problems",
+  "problemexe": "Project1.exe",
+  "problemfile": "problem.txt",
+  "errorfile": "errors",
+  "errorstofolder": "C:\\Users\\User\\WebstormProjects\\processing_the_data\\data2\\",
+  "errorstofilename": "graphs"
+}
